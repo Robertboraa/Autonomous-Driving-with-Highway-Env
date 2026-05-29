@@ -5,7 +5,7 @@
 ![Algorithm](https://img.shields.io/badge/Algorithm-DQN-orange)
 ![Framework](https://img.shields.io/badge/Framework-Stable--Baselines3-red)
 
-**Student:** [YOUR NAME]  
+**Student:** Bora Robert Orhan  
 **Course:** CMP4501 – Applied Reinforcement Learning  
 **Track:** Option A – Autonomous Driving with Highway-Env  
 
